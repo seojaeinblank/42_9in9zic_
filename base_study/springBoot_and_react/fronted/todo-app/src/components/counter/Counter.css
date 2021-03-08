@@ -1,0 +1,28 @@
+#UP {
+    background-color: #63aa99;
+    font-size : 16px;
+    padding : 15px 30px;
+    color : white;
+    width : 100px;
+}
+
+#DOWN {
+    background-color: green;
+    font-size : 16px;
+    padding : 15px 30px;
+    color : white;
+    width : 100px;
+}
+
+.count {
+    font-size : 50px;
+    padding : 15px 30px;
+}
+
+.reset {
+    background-color: red;
+    font-size : 16px;
+    padding : 15px 25px;
+    color : white;
+    width : 200px;
+}
